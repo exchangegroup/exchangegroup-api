@@ -1,0 +1,13 @@
+{
+    "name": "exchangegroup/exchangegroup-api",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "ExchangeGroup\\": "src/"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "~4"
+    }
+}
