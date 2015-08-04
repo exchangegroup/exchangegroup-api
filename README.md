@@ -1,7 +1,9 @@
 Exchange Group API V1 Client
 =======================
 
-PHP API client for http://www.bikeexchange.com.au/, http://www.tinitrader.com.au/, http://www.renoexchange.com.au/, http://www.furnitureexchange.com.au/, http://www.bikeexchange.co.nz, http://www.bikeexchange.de and http://www.bikeexchange.com
+PHP API client for http://www.bikeexchange.com.au/, http://www.tinitrader.com.au/, http://www.houseofhoem.com.au/, http://www.bikeexchange.co.nz, http://www.bikeexchange.de and http://www.bikeexchange.com
+
+Requires https://getcomposer.org/
 
 All response data is provided as associative arrays for ease of handling
 
